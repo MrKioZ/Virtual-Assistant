@@ -2,7 +2,7 @@ import hashlib
 import base64
 
 
-class pwdmanager():
+class PWDManager():
   
    IsValid = False
   
